@@ -1,0 +1,92 @@
+
+.h-select{
+    background-color: #b4d5ff;
+    height: 75px;
+    width: 100px;
+    margin: 0px;
+}
+.shipping_form{
+    position: relative;
+    top: 60px;
+    height: 100%;
+    border: 1px solid #dde2e4;
+    margin: 0px 0px 130px 0px;
+}
+.s_f_title{
+    width: 104%;
+    margin: 0px -15px;
+    height: 25px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #dde2e4;
+}
+.s_f_conten{
+    margin-top: 5%;
+}
+.order_info_form{
+    position: relative;
+    top: 60px;
+    margin: 0px 0px 0px 0px;
+    border: 1px solid #dde2e4;
+}
+.fee{
+    border-top: 1px solid #dde2e4;
+}
+.label_fee{
+    padding-left: 10px;
+}
+.lable_price{
+
+}
+#total_fee{
+    font-weight: bold;
+    color: red;
+}
+
+.a {
+    color: #000000;
+    text-decoration: none;
+}
+.a:hover{
+    color: #000000;
+    text-decoration: none;
+}
+/*css for choose payment*/
+.s_pay_address{
+    position: relative;
+    top: 60px;
+    width: 100%;
+    height: auto;
+    border: 1px solid #dde2e4;
+    margin-bottom: 20px;
+}
+#choose_pay{
+
+}
+
+.money{
+    position: relative;
+    top: -20px;
+    text-align: center;
+    border-left: 1px solid #dde2e4;
+    border-right: 1px solid #dde2e4;
+    border-bottom: 1px solid #dde2e4;
+    border-top: 1px solid #dde2e4;
+}
+
+.radio input[type="radio"] {
+    left: 20px;
+}
+
+.form_custom{
+    border-radius: 0px;
+    height: 40px;
+    margin-top: 15px;
+}
+.p-style{
+    font-size: 15px;
+    color: #555;
+    font-weight: bold;
+/*    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;*/
+}
